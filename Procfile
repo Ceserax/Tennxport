@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True --theme=dark notebooks/Tennet2021.ipynb
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/Tennet2021.ipynb
